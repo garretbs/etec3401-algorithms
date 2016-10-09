@@ -1,0 +1,23 @@
+{
+	"palaces" : {
+		"North Palace" : [390, 375],
+		"Parapa Palace" : [1015, 55],
+		"Midoro Palace" : [200, 565],
+		"Island Palace" : [935, 1110],
+		"The Grand Palace" : [1230, 1110],
+		"Hidden 3-Eyed Palace" : [1885, 1575],
+		"Water Palace" : [2160, 900],
+		"Labyrinth Palace" : [2525, 440]
+	},
+	"towns" : {
+		"Ruto Town" : [55, 120],
+		"Rauru Town" : [760, 410],
+		"North Saria Town" : [150, 970],
+		"South Saria Town" : [150, 1000],
+		"Mido Port Town" : [985, 745],
+		"Darunia Mountain Town" : [1215, 475],
+		"Nabooru Village" : [1535, 905],
+		"Old Kasuto Town" : [1710, 1530],
+		"Kasuto Town" : [2145, 1245]
+	}
+}
