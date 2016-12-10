@@ -1,0 +1,34 @@
+{
+	"students" : [
+		{
+			"name" : "John Smith",
+			"classes": ["History", "Math", "Physics"]
+		},
+		{
+			"name" : "Ann Smith",
+			"classes" : ["Math", "Biology"]
+		}
+	],
+	"classes" : [
+		{
+			"name" : "History",
+			"times" : ["T0", "T1"],
+			"capacity" : 2
+		},
+		{
+			"name" : "Math",
+			"times" : ["T1", "T2"],
+			"capacity" : 5
+		},
+		{
+			"name" : "Biology",
+			"times" : ["T0"],
+			"capacity" : 1
+		},
+		{
+			"name" : "Physics",
+			"times" : ["T0", "T2"],
+			"capacity" : 3
+		}
+	]
+}
